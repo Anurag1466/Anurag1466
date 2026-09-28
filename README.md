@@ -11,8 +11,7 @@ Building practical machine learning and AI systems from data to deployment.
 ---
 
 ## About Me
-
-I am an AI/ML practitioner focused on **Machine Learning, Deep Learning, Data Science, and Generative AI**. I enjoy building end-to-end projects that combine data analysis, model development, and practical applications.
+An AI/ML practitioner focused on **Machine Learning, Deep Learning, Data Science, and Generative AI**. I enjoy building end-to-end projects that combine data analysis, model development, and practical applications.
 
 - B.Tech in Artificial Intelligence & Machine Learning
 - Interested in AI/ML, Data Science, Computer Vision, NLP, and Generative AI
