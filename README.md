@@ -6,56 +6,19 @@
 
 Building practical machine learning and AI systems from data to deployment.
 
+[GitHub](https://github.com/Anurag1466) • [LinkedIn](https://www.linkedin.com/in/anurag-prajapati-401aa2282/?isSelfProfile=true)
+
 </div>
 
 ---
 
 ## About Me
-An AI/ML practitioner focused on **Machine Learning, Deep Learning, Data Science, and Generative AI**. I enjoy building end-to-end projects that combine data analysis, model development, and practical applications.
+
+AI/ML practitioner focused on Machine Learning, Deep Learning, Data Science, Computer Vision, and Generative AI.
 
 - B.Tech in Artificial Intelligence & Machine Learning
-- Interested in AI/ML, Data Science, Computer Vision, NLP, and Generative AI
-- Experienced with Python, SQL, PyTorch, scikit-learn, Pandas, and data visualization
-- Currently focused on strengthening my skills in production-oriented AI/ML systems
-
----
-
-## What I Work With
-
-```text
-Machine Learning     → Scikit-learn, Feature Engineering, Model Evaluation
-Deep Learning        → PyTorch, CNNs, Transformers
-Data Science         → Python, Pandas, NumPy, SQL, Statistics
-Data Visualization   → Power BI, Tableau, Matplotlib, Seaborn
-NLP                  → Transformers, T5, Text Classification
-Tools                → Git, GitHub, Jupyter, Streamlit
-```
-
----
-
-## Featured Projects
-
-### Flood Susceptibility Assessment
-Simplified CNN and CNN-Transformer approach for pixel-wise urban flood susceptibility mapping using a synthetic geospatial dataset.
-
-[View Project](https://github.com/Anurag1466/flood-susceptibility-assessment)
-
-### UPI Transaction Analysis
-Data analysis and visualization project focused on understanding transaction patterns and generating business insights.
-
-[View Project](https://github.com/Anurag1466/upi-transaction-analysis)
-
-### CreditWise Loan System
-Machine learning project for predicting loan approval using customer and financial features.
-
-### Customer Segmentation
-Customer segmentation using clustering, feature engineering, PCA, and exploratory data analysis.
-
-### T5 Text Summarizer
-NLP project using the T5 Transformer architecture for automatic text summarization.
-
-### Movie Recommender System
-Recommendation system designed to suggest movies based on user and item characteristics.
+- Experienced with Python, SQL, PyTorch, Scikit-learn, Pandas, and Power BI
+- Interested in building practical and production-oriented AI/ML systems
 
 ---
 
@@ -63,28 +26,38 @@ Recommendation system designed to suggest movies based on user and item characte
 
 **Languages:** Python, SQL
 
-**Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Feature Engineering
+**Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation
 
-**Deep Learning:** PyTorch, CNN, RNN, Transformers
+**Deep Learning:** PyTorch, CNNs, Transformers
 
 **Data:** Pandas, NumPy, Matplotlib, Seaborn
 
-**BI & Visualization:** Power BI, Tableau
+**Computer Vision:** OpenCV, MediaPipe, Dlib
 
-**Tools:** Git, GitHub, Jupyter Notebook, Streamlit
+**Tools:** Git, GitHub, Jupyter, Streamlit
 
 ---
 
-## GitHub
+## Featured Projects
 
-I use GitHub to document my projects, experiments, and machine learning work.
+### RepSense — AI Gym Coach
 
-[GitHub Profile](https://github.com/Anurag1466)
+Computer vision-based gym coach that tracks exercises, analyzes form, counts repetitions, and provides real-time voice feedback.
+
+**Tech:** Python, MediaPipe, OpenCV, Streamlit, WebRTC, Groq, gTTS
+
+[View Project](https://github.com/Anurag1466/RepSense)
+
+### VisionClass — Computer Vision Attendance System
+
+Computer vision application for face detection, recognition, and automated student attendance.
+
+**Tech:** Python, OpenCV, Dlib, Face Recognition, SVM, Streamlit, SQLite
+
+[View Project](https://github.com/Anurag1466/VisionClass)
 
 ---
 
 ## Connect
 
-**LinkedIn:** [linkedin.com/in/anurag-prajapati](https://www.linkedin.com/)
-
-**GitHub:** [github.com/Anurag1466](https://github.com/Anurag1466)
+[GitHub](https://github.com/Anurag1466) • [LinkedIn](https://www.linkedin.com/in/anurag-prajapati/)
